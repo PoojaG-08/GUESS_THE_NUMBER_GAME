@@ -35,6 +35,20 @@ The player has to guess a randomly generated number between **1 and 100** with i
 - Try to beat your best score 🏆
 
 ---
+## 📦 Guess-The-Number
+
+│
+
+├── 📄 index.html
+
+├── 🎨 style.css
+
+├── ⚡ script.js
+
+└── 📘 README.md
+
+
+---
 
 ## 📸 Preview
 
